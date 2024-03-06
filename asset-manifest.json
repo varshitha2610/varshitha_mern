@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/varshitha2610/352_week4.git/static/css/main.07e98e2e.css",
-    "main.js": "/varshitha2610/352_week4.git/static/js/main.a5d0d24e.js",
+    "main.css": "/varshitha2610/352_week4.git/static/css/main.9bd82cdd.css",
+    "main.js": "/varshitha2610/352_week4.git/static/js/main.8112068a.js",
     "static/js/592.7191424f.chunk.js": "/varshitha2610/352_week4.git/static/js/592.7191424f.chunk.js",
+    "static/media/profile.png": "/varshitha2610/352_week4.git/static/media/profile.f259a0e683afa134b074.png",
     "index.html": "/varshitha2610/352_week4.git/index.html",
-    "main.07e98e2e.css.map": "/varshitha2610/352_week4.git/static/css/main.07e98e2e.css.map",
-    "main.a5d0d24e.js.map": "/varshitha2610/352_week4.git/static/js/main.a5d0d24e.js.map",
+    "main.9bd82cdd.css.map": "/varshitha2610/352_week4.git/static/css/main.9bd82cdd.css.map",
+    "main.8112068a.js.map": "/varshitha2610/352_week4.git/static/js/main.8112068a.js.map",
     "592.7191424f.chunk.js.map": "/varshitha2610/352_week4.git/static/js/592.7191424f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.07e98e2e.css",
-    "static/js/main.a5d0d24e.js"
+    "static/css/main.9bd82cdd.css",
+    "static/js/main.8112068a.js"
   ]
 }
