@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/varshitha_mern/static/css/main.dd9d9c11.css",
-    "main.js": "/varshitha_mern/static/js/main.88af552d.js",
+    "main.js": "/varshitha_mern/static/js/main.929106dc.js",
     "static/js/592.7191424f.chunk.js": "/varshitha_mern/static/js/592.7191424f.chunk.js",
     "index.html": "/varshitha_mern/index.html",
     "main.dd9d9c11.css.map": "/varshitha_mern/static/css/main.dd9d9c11.css.map",
-    "main.88af552d.js.map": "/varshitha_mern/static/js/main.88af552d.js.map",
+    "main.929106dc.js.map": "/varshitha_mern/static/js/main.929106dc.js.map",
     "592.7191424f.chunk.js.map": "/varshitha_mern/static/js/592.7191424f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dd9d9c11.css",
-    "static/js/main.88af552d.js"
+    "static/js/main.929106dc.js"
   ]
 }
